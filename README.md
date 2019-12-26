@@ -1,2 +1,7 @@
 # DartFromBasics
-In this repository I am going to post codes in Dart which can be even used by a newbie.
+
+HOla buddies,
+
+It's Anshul this side and in this repository I am going to post codes from in Dart which can be even used by a newbie.
+
+Feel free to contact.
