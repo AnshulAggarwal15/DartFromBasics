@@ -19,7 +19,7 @@ void main()
 	
 	//But if we need to print Statement A using ' '
 	// It will confuse the compiler, causing error
-	// To restrict this confusion we will use /
+	// To restrict this confusion we will use \
 	
-	print ('It/'s print 2.O');
+	print ('It\'s print 2.O');
 }	                                      
