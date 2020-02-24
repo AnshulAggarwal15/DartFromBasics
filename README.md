@@ -4,8 +4,8 @@ HOla buddies,
 
 It's Anshul this side and in this repo I have posted codes in Dartlang.
 
-## TOPICS COVERED -
--0 to 5
+## TOPICS COVERED
+0 to 5
   - BASICS
 6 to 14
   - LOOPS
